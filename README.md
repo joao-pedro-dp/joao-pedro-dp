@@ -16,14 +16,12 @@
     </p>
 </div>
 
----
-
 <div align="center">
     <h1>🤖 Linguagens e Tecnologias</h1>
 </div>
 
 <img 
-    align="center" 
+    align="left" 
     alt="R" 
     title="R"
     width="30px" 
@@ -31,7 +29,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
     
 <img 
-    align="center" 
+    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
@@ -39,7 +37,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     
 <img 
-    align="center" 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -47,7 +45,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <img 
-    align="center" 
+    align="left" 
     alt="PowerBI" 
     title="PowerBI"
     width="30px" 
@@ -55,7 +53,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
 
 <img 
-    align="center" 
+    align="left" 
     alt="Excel" 
     title="Excel"
     width="30px" 
@@ -63,7 +61,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/file-excel/file-excel-original.svg" />
 
 <img 
-    align="center" 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
