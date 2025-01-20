@@ -14,7 +14,7 @@
             alt="LinkedIn Icon" 
             title="LinkedIn" 
             width="30px" 
-            src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" 
+            src="https://img.icons8.com/ios-filled/50/000000/linkedin.png](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
         />
     </a>
 </p>
