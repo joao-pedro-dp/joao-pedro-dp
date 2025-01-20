@@ -17,10 +17,10 @@
 </div>
 
 <div align="center">
-<h1>🤖 Linguagens e Tecnologias</h1>
+    <h1>🤖 Linguagens e Tecnologias</h1>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-<img 
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+        <img 
             alt="R" 
             title="R"
             width="30px" 
