@@ -1,4 +1,7 @@
-# 👾 João Pedro de Paula
+<div align="center">
+    <h1>👾 João Pedro de Paula</h1>
+</div>
+
 <div align="center">
     <h2><strong>Desenvolvedor Back-End</strong></h2>
     <p>Me chamo João Pedro de Paula, tenho 22 anos e sou natural de Ituiutaba, MG. Atualmente, estou cursando Engenharia da Computação na UEMG. Tenho interesse na área de dados e sou apaixonado por computação e inteligência artificial.</p>
@@ -15,11 +18,8 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<div>
+<div style="text-align: center;">
 <img 
-        align="center"
         alt="R" 
         title="R"
         width="30px" 
@@ -27,7 +27,6 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
         
 <img 
-        align="center" 
         alt="MySQL" 
         title="MySQL"
         width="30px" 
@@ -35,7 +34,6 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
         
 <img 
-        align="center"
         alt="Python" 
         title="Python"
         width="30px" 
@@ -43,7 +41,6 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <img 
-        align="center" 
         alt="PowerBI" 
         title="PowerBI"
         width="30px" 
@@ -51,7 +48,6 @@
         src="https://img.icons8.com/color/48/000000/power-bi.png" />
 
 <img 
-        align="center" 
         alt="Excel" 
         title="Excel"
         width="30px" 
@@ -59,7 +55,6 @@
         src="https://img.icons8.com/color/48/000000/ms-excel.png" />
 
 <img 
-        align="center"
         alt="Git" 
         title="Git"
         width="30px" 
@@ -69,3 +64,4 @@
     
 <br/>
 <br/>
+
