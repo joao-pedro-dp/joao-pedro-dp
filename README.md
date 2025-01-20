@@ -18,48 +18,33 @@
 
 ---
 
-<div style="text-align: center;">
-<img 
-        alt="R" 
-        title="R"
-        width="30px" 
-        style="display: inline-block;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+
+### 🤖 Linguagens e Tecnologias
 
 <img 
-        alt="MySQL" 
-        title="MySQL"
-        width="30px" 
-        style="display: inline-block;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
+    align="left" 
+    alt="R" 
+    title="R"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+    
 <img 
-        alt="Python" 
-        title="Python"
-        width="30px" 
-        style="display: inline-block;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    
 <img 
-        alt="PowerBI" 
-        title="PowerBI"
-        width="30px" 
-        style="display: inline-block;" 
-        src="https://img.icons8.com/color/48/000000/power-bi.png" />
-
-<img 
-        alt="Excel" 
-        title="Excel"
-        width="30px" 
-        style="display: inline-block;" 
-        src="https://img.icons8.com/color/48/000000/ms-excel.png" />
-
-<img 
-        alt="Git" 
-        title="Git"
-        width="30px" 
-        style="display: inline-block;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    
+<br/>
+<br/>
 
