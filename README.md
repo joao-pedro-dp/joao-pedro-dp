@@ -25,7 +25,7 @@
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
         
-    <img 
+<img 
         align="left" 
         alt="MySQL" 
         title="MySQL"
@@ -33,7 +33,7 @@
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
         
-    <img 
+<img 
         align="left" 
         alt="Python" 
         title="Python"
@@ -41,7 +41,7 @@
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-    <img 
+<img 
         align="left" 
         alt="PowerBI" 
         title="PowerBI"
@@ -49,7 +49,7 @@
         style="padding-right: 10px;" 
         src="https://img.icons8.com/color/48/000000/power-bi.png" />
 
-    <img 
+<img 
         align="left" 
         alt="Excel" 
         title="Excel"
@@ -57,7 +57,7 @@
         style="padding-right: 10px;" 
         src="https://img.icons8.com/color/48/000000/ms-excel.png" />
 
-    <img 
+<img 
         align="left" 
         alt="Git" 
         title="Git"
