@@ -45,28 +45,28 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <img 
-    align="left" 
-    alt="PowerBI" 
-    title="PowerBI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://seeklogo.com/images/P/power-bi-icon-1126EA8B21-seeklogo.com.png" />
+        align="left" 
+        alt="PowerBI" 
+        title="PowerBI"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://img.icons8.com/color/48/000000/power-bi.png" />
 
 <img 
-    align="left" 
-    alt="Excel" 
-    title="Excel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/file-excel/file-excel-original.svg" />
+        align="left" 
+        alt="Excel" 
+        title="Excel"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://img.icons8.com/color/48/000000/ms-excel.png" />
 
 <img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        align="left" 
+        alt="Git" 
+        title="Git"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     
 <br/>
 <br/>
