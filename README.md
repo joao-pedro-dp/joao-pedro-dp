@@ -17,56 +17,46 @@
 </div>
 
 <div align="center">
-    <h1>🤖 Linguagens e Tecnologias</h1>
+<h1>🤖 Linguagens e Tecnologias</h1>
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+<img 
+            alt="R" 
+            title="R"
+            width="30px" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+        
+<img 
+            alt="MySQL" 
+            title="MySQL"
+            width="30px" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+        
+<img 
+            alt="Python" 
+            title="Python"
+            width="30px" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+<img 
+            alt="PowerBI" 
+            title="PowerBI"
+            width="30px" 
+            src="https://img.icons8.com/color/48/000000/power-bi.png" />
+
+<img 
+            alt="Excel" 
+            title="Excel"
+            width="30px" 
+            src="https://img.icons8.com/color/48/000000/ms-excel.png" />
+
+<img 
+            alt="Git" 
+            title="Git"
+            width="30px" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    </div>
 </div>
 
-<img 
-    align="left" 
-    alt="R" 
-    title="R"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-    
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-<img 
-        align="left" 
-        alt="PowerBI" 
-        title="PowerBI"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://img.icons8.com/color/48/000000/power-bi.png" />
-
-<img 
-        align="left" 
-        alt="Excel" 
-        title="Excel"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://img.icons8.com/color/48/000000/ms-excel.png" />
-
-<img 
-        align="left" 
-        alt="Git" 
-        title="Git"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    
 <br/>
 <br/>
