@@ -10,12 +10,6 @@
             title="Me siga no LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
-        <img 
-            alt="LinkedIn Icon" 
-            title="LinkedIn" 
-            width="30px" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-        />
     </a>
 </p>
 
