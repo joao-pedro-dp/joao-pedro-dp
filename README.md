@@ -50,7 +50,7 @@
     title="PowerBI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
+    src="https://seeklogo.com/images/P/power-bi-icon-1126EA8B21-seeklogo.com.png" />
 
 <img 
     align="left" 
