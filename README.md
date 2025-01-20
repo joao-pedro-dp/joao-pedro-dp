@@ -18,57 +18,57 @@
 
 ---
 
-
-### 🤖 Linguagens e Tecnologias
+<div align="center">
+    <h1>🤖 Linguagens e Tecnologias</h1>
+</div>
 
 <img 
-    align="left" 
+    align="center" 
     alt="R" 
     title="R"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
     
 <img 
-    align="left" 
+    align="center" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     
 <img 
-    align="left" 
+    align="center" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <img 
-    align="left" 
+    align="center" 
     alt="PowerBI" 
     title="PowerBI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="file:///C:/Users/joaoa/Downloads/icons8-power-bi.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
 
 <img 
-    align="left" 
+    align="center" 
     alt="Excel" 
     title="Excel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="file:///C:/Users/joaoa/Downloads/icons8-ms-excel.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/file-excel/file-excel-original.svg" />
 
 <img 
-    align="left" 
+    align="center" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     
 <br/>
 <br/>
-
