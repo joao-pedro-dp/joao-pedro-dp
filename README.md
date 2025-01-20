@@ -44,6 +44,30 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<img 
+    align="left" 
+    alt="PowerBI" 
+    title="PowerBI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="file:///C:/Users/joaoa/Downloads/icons8-power-bi.svg" />
+
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="file:///C:/Users/joaoa/Downloads/icons8-ms-excel.svg" />
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     
 <br/>
 <br/>
