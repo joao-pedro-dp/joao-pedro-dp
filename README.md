@@ -23,44 +23,45 @@
         alt="R" 
         title="R"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; display: inline-block;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-        
+
 <img 
         alt="MySQL" 
         title="MySQL"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; display: inline-block;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-        
+
 <img 
         alt="Python" 
         title="Python"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; display: inline-block;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <img 
         alt="PowerBI" 
         title="PowerBI"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; display: inline-block;" 
         src="https://img.icons8.com/color/48/000000/power-bi.png" />
 
 <img 
         alt="Excel" 
         title="Excel"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; display: inline-block;" 
         src="https://img.icons8.com/color/48/000000/ms-excel.png" />
 
 <img 
         alt="Git" 
         title="Git"
         width="30px" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; display: inline-block;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
+
     
 <br/>
 <br/>
