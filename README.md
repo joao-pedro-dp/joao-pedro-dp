@@ -13,7 +13,7 @@
 
 <p align="center">
     <a href="https://sites.google.com/view/joao-pedro-dp/in%C3%ADcio" target="_blank">
-        <img alt="PowerBI" title="PowerBI" width="45px" src="https://img.icons8.com/color/48/000000/power-bi.png" />
+        <img alt="PowerBI" title="PowerBI" width="50px" src="https://img.icons8.com/color/48/000000/power-bi.png" />
     </a>
 </p>
 
