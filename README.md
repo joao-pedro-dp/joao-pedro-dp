@@ -6,7 +6,7 @@
 <h1 align="center">Linkedin Profissional e Portfólio Power BI</h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/joao-pedro-dp" target="_blank">
+    <a href="www.linkedin.com/in/joão-pedro-de-paula" target="_blank">
         <img alt="LinkedIn" title="Me siga no LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
     </a>
     <a href="https://sites.google.com/view/joao-pedro-dp/in%C3%ADcio" target="_blank">
