@@ -3,14 +3,14 @@
 <h2 align="center"><strong>Desenvolvedor Back-End</strong></h2>
 <p align="center">Me chamo João Pedro de Paula, tenho 22 anos e sou natural de Ituiutaba, MG. Atualmente, estou cursando Engenharia da Computação na UEMG. Tenho interesse na área de dados e inteligência artificial.</p>
 
-<h1 align="center">Linkedin Profissional e Portfólio Power BI</h1>
+<h1 align="center">Linkedin e Portfólio</h1>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-de-paula/" target="_blank">
         <img alt="LinkedIn" title="Me siga no LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
     </a>
-    <a href="https://sites.google.com/view/joao-pedro-dp/in%C3%ADcio" target="_blank">
-        <img alt="PowerBI" title="PowerBI" width="40px" src="https://img.icons8.com/color/48/000000/power-bi.png" />
+    <a href="https://joao-pedro-dp.github.io/Site-Portfolio/" target="_blank">
+        <img alt="portfolio" title="portfolio" width="40px" src="https://github.com/user-attachments/assets/a78be35c-5073-41cb-80da-f5fe39cfd314" />
     </a>
 </p>
 
