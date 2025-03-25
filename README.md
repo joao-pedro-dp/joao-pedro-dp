@@ -1,6 +1,6 @@
 <h1 align="center">👾 João Pedro de Paula</h1>
 
-<p align="center">Me chamo João Pedro de Paula, tenho 22 anos e sou natural de Ituiutaba, MG. Atualmente, estou cursando Engenharia da Computação na UEMG. Tenho interesse na área de dados e inteligência artificial.</p>
+<p align="center">Me chamo João Pedro de Paula, tenho 23 anos e sou natural de Ituiutaba, MG. Atualmente, estou cursando Engenharia da Computação na UEMG. Tenho interesse na área de dados e inteligência artificial.</p>
 
 <h1 align="center">🌐 Clique Aqui para Acessar meu Linkedin ou Site de Portfólio</h1>
 
@@ -14,7 +14,6 @@
              src="https://github.com/user-attachments/assets/a78be35c-5073-41cb-80da-f5fe39cfd314"
     </a>
 </p>
-
 
 <h1 align="center">🤖 Linguagens e Tecnologias</h1>
 
