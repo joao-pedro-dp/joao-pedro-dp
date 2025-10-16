@@ -7,10 +7,10 @@
 <p align="center">Languages and Tools</p>
 
 <p align="center">
-    <img alt="R" title="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-    <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img alt="Power BI" title="Power BI" width="30px" src="https://img.icons8.com/color/48/000000/power-bi.png" />
-    <img alt="Excel" title="Excel" width="30px" src="https://img.icons8.com/color/48/000000/ms-excel.png" />
-    <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img src="./assets/icons/r.svg" width="30px" />
+  <img src="./assets/icons/mysql.svg" width="30px" />
+  <img src="./assets/icons/python.svg" width="30px" />
+  <img src="./assets/icons/powerbi.png" width="30px" />
+  <img src="./assets/icons/excel.png" width="30px" />
+  <img src="./assets/icons/git.svg" width="30px" />
 </p>
